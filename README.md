@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nemanja
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and other software tools to help me improve my knowledge in fields I am interested in!
